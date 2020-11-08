@@ -1,7 +1,2 @@
 first line
 second line
-
-2 line
-4 line
-
-one more
